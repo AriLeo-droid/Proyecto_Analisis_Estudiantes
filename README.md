@@ -266,3 +266,7 @@ Proyecto académico orientado a:
 - Reproducibilidad de proyectos.
 - Gestión de dependencias.
 - Uso de Git y GitHub como sistema de control de versiones.
+
+
+Notas finales: 
+Algunos commit que no tienen la nomenclatura habitual son merges o sincronizaciones entre los commits realizados de y por GitHub (vía sitio web) junto con los commits del proyecto local, pero ningún otro cambio se hizo en esas actualizaciones.
